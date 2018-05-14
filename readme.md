@@ -2,6 +2,8 @@
 
 JavaScript client for the Polish [Koleo](https://koleo.pl/) (PKP) train API. Complies with the [friendly public transport format](https://github.com/public-transport/friendly-public-transport-format). Inofficial, using endpoints by *Koleo*. Ask them for permission before using this module in production.
 
+**You should probably refer to the newer [bilkom](https://github.com/juliuste/bilkom) package instead.**
+
 [![npm version](https://img.shields.io/npm/v/koleo.svg)](https://www.npmjs.com/package/koleo)
 [![Build Status](https://travis-ci.org/juliuste/koleo.svg?branch=master)](https://travis-ci.org/juliuste/koleo)
 [![Greenkeeper badge](https://badges.greenkeeper.io/juliuste/koleo.svg)](https://greenkeeper.io/)
@@ -31,6 +33,7 @@ This package contains data in the [*Friendly Public Transport Format*](https://g
 
 ## Similar Projects
 
+- [bilkom](https://github.com/juliuste/bilkom) - Client for the new polish Bilkom (PKP) API (includes price information)
 - [pkp-ic](https://github.com/juliuste/pkp-ic/) - Client for the PKP Intercity API (doesn't have prices)
 - [meinfernbus](https://github.com/juliuste/meinfernbus/) – Client for the Flixbus/Meinfernbus API
 - [db-hafas](https://github.com/derhuerst/db-hafas/) - Client for the german railways (DB) API
