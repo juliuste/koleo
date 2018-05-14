@@ -1,7 +1,7 @@
 {
 	"name": "koleo",
 	"description": "Client for the Polish Koleo (PKP) train API.",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"keywords": [
 		"koleo",
 		"pkp",
