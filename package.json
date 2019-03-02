@@ -34,7 +34,7 @@
 	},
 	"devDependencies": {
 		"tape": "^4.9.0",
-		"validate-fptf": "^2.0.0"
+		"validate-fptf": "2.1.1"
 	},
 	"scripts": {
 		"test": "node test.js",
